@@ -21,7 +21,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadali112&show_icons=true&locale=en&layout=compact" alt="saadali112" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadali112&show_icons=true&locale=en" alt="saadali112" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadali112&" alt="saadali112" /></p>
 
