@@ -48,7 +48,3 @@ I love breaking things down to understand how they work—whether it's code, sys
 
 ---
 
-## 📈 GitHub Stats  
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=github_dark)
-
----
