@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Saad Ali**!
 
-<!--
-**saadali112/saadali112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Cybersecurity student** at the **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**. I’m deeply interested in security research, ethical hacking, and SOC operations, and I’m always looking to grow in the field of defensive and offensive security.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+**Bachelor’s in Cybersecurity**  
+*Ghulam Ishaq Khan Institute (2022 – 2026)*
+
+---
+
+## 🧠 Interests  
+- Ethical Hacking & Penetration Testing  
+- Security Information & Event Management (SIEM)  
+- Capture The Flag (CTF) Challenges  
+- Security Automation & Scripting  
+- Digital Forensics  
+- Open-Source Security Tools  
+
+---
+
+## 🛠️ Tools & Technologies  
+- **Languages:** Python, Bash  
+- **Platforms:** Linux, Windows  
+- **Tools:** Git, Wireshark, Nmap, Burp Suite, Metasploit, **Wazuh**, **IBM QRadar**  
+- **Domains:** Networking, System Security, Vulnerability Assessment, **SOC (Security Operations Center)**  
+
+---
+
+## 💬 Ask Me About  
+- Cybersecurity Fundamentals  
+- Linux & Network Security  
+- SIEM Tools (Wazuh, QRadar)  
+- SOC Operations & Threat Detection  
+- Open-Source Security Projects  
+
+---
+
+## 📫 Contact Me  
+📧 Email: [saadxali114@gmail.com](mailto:saadxali114@gmail.com)  
+🔗 LinkedIn: [Saad Ali](https://www.linkedin.com/in/saad-ali-baaa5b272/)
+
+---
+
+## ⚡ Fun Fact  
+I love breaking things down to understand how they work—whether it's code, systems, or security protocols!
+
+---
+
+## 📈 GitHub Stats  
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsal7477&show_icons=true&theme=github_dark)
+
+---
