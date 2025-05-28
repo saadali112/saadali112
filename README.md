@@ -48,3 +48,7 @@ I love breaking things down to understand how they work—whether it's code, sys
 
 ---
 
+## 📈 GitHub Stats  
+![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadali112&show_icons=true&theme=github_dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadali112&layout=compact&theme=github_dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=saadali112&theme=github-dark&hide_border=true)
