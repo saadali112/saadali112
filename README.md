@@ -1,54 +1,76 @@
 # 👨‍💻 Saad | Cybersecurity & AI Security Specialist
 
-## 🛡️ About Me
-I'm a cybersecurity professional passionate about building secure systems and leveraging AI/ML for threat detection and security automation. With hands-on experience in penetration testing, network defense, and security tool development, I focus on creating practical solutions to real-world security challenges.
+Welcome to my GitHub profile! I'm a passionate cybersecurity student and developer with hands-on experience in **SOC operations**, **penetration testing**, and applying **AI/ML** to detect and mitigate threats. I build security tools, analyze network traffic, and automate defensive workflows. I enjoy working on open-source projects, collaborating in CTFs and hackathons, and contributing to the security community.
 
-## 🔧 Tech Stack
+
+## 🔧 **Technical Stack**
+
+### **SOC & Security Monitoring**
+`Splunk` `IBM QRadar`  `Wazuh`  `Snort` `Suricata` `Graylog`  
+🔍 **Threat Hunting | Log Analysis | Incident Response | SIEM Implementation**
+
+### **Penetration Testing & Red Teaming**
+`Burp Suite` `Metasploit` `Nmap` `OWASP ZAP` `SQLmap` `Hashcat` `John the Ripper` `Cobalt Strike`  
+🔓 **Web App Testing | Network Pentesting | Vulnerability Assessment | Post-Exploitation**
+
+### **AI/ML for Cybersecurity**
+`TensorFlow` `PyTorch` `Scikit-Learn` `Keras` `Pandas` `NumPy`  
+🤖 **Anomaly Detection | UEBA | Malware Classification | Phishing Detection | Threat Intelligence Automation**
 
 ### **Programming & Scripting**
-`Python` `C++` `SQL` `Bash` `HTML/CSS` `JavaScript` `PowerShell`
+`Python` `C++` `SQL` `Bash` `PowerShell` `JavaScript`
 
-### **Cybersecurity & Pentesting**
-`Burp Suite` `Wireshark` `Nmap` `Metasploit` `Autopsy` `OWASP Top 10` `OWASP ZAP` `SQLmap` `Hashcat` `Snort` `Volatility` `Kali Linux`
+### **Cloud & DevOps Security**
+`AWS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Ansible` `Prometheus` `Grafana`
 
-### **SIEM & Security Monitoring**
-`Splunk` `IBM QRadar` `ELK Stack` `Microsoft Sentinel` `LogRhythm` `Security Onion` `Graylog` `SIEM Implementation`
-
-### **AI & Machine Learning for Security**
-`TensorFlow` `PyTorch` `Scikit-Learn` `Keras` `Pandas` `NumPy` 
-- **AI Security Applications:** `Anomaly Detection` `UEBA` `Threat Intelligence Automation` `Phishing Detection` `Malware Classification`
-- **Security AI Tools:** `AutoML for Threat Hunting` `ML-Powered SIEM` `Behavioral Analytics`
-
-### **Cloud & DevOps**
-`AWS` `Docker` `Kubernetes` `Terraform` `GitHub Actions` `Jenkins` `Prometheus` `Grafana` `Ansible`
-
-### **Frameworks & APIs**
-`Flask` `FastAPI` `REST APIs` `GraphQL`
-
-## 🚀 Featured Projects
-
-### **Network Traffic Anomaly Detection**
-Python-based system for analyzing `.pcap` files using K-Means clustering (Silhouette Score: 0.87). Features traffic visualization and geo-mapping capabilities.
-
-### **AI-Powered Phishing Detection**
-Genetic Algorithm + Random Forest system achieving 95.45% accuracy in email classification with balanced precision/recall metrics.
-
-### **Security Automation Framework**
-Collection of Python tools for automated penetration testing, vulnerability scanning, and security reporting.
-
-## 🎯 Currently Working On
-- Developing ML models for real-time threat detection in enterprise networks
-- Building open-source security tools for the community
-- Researching AI applications in cybersecurity threat hunting
-
-## 📫 Connect With Me
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+### **Frameworks & Tools**
+`Flask` `FastAPI` `REST APIs` `Wireshark` `Volatility` `Autopsy` `Kali Linux`
 
 ---
 
-> *"Security is not just about tools; it's about mindset, process, and continuous learning."*
+## 🚀 **Featured Projects**
 
-⭐ **Feel free to explore my repositories and reach out for collaboration opportunities!**
+### 🔍 **SOC-Ready Network Traffic Anomaly Detection**
+- Python tool for `.pcap` analysis using **K-Means clustering** (Silhouette Score: **0.87**)
+- Integrated with **Splunk dashboards** for real-time SOC monitoring
+- **Tech:** Python, Scikit-Learn, Wireshark, Splunk, ELK
+
+### ⚔️ **Automated Pentesting Reconnaissance Framework**
+- Multi-tool automation for network scanning and vulnerability discovery
+- Integrates **Nmap, Dirb, and custom enumeration scripts**
+- **Tech:** Python, Bash, Nmap, Metasploit
+
+### 📧 **AI-Powered Phishing & Malware Detection**
+- **Genetic Algorithm + Random Forest** classifier for email analysis (**95.45% accuracy**)
+- ML model for malware classification using behavioral features
+- **Tech:** Python, TensorFlow, Scikit-Learn, Pandas
+
+### 🛡️ **Incident Response Playbook Automator**
+- Python-based tool to automate SOC playbooks and alert triage
+- Integrates with **SIEM APIs** for automated ticket creation and response
+- **Tech:** Python, Splunk API, FastAPI, Docker
+
+---
+
+## 📌 **Currently Exploring**
+- **SOAR (Security Orchestration, Automation, and Response)** platforms
+- **AI-driven threat hunting** with behavioral analytics
+- **Cloud security posture management (CSPM)** with Terraform
+- **Adversarial ML** for evading detection systems
+
+---
+
+## 📬 **Connect With Me**
+- 📧 **Email:** [your.email@example.com](mailto:saadxali114@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/saad-ali-baaa5b272/)   
+
+---
+
+> *“The quieter you become, the more you are able to hear.” – Dharma Punx*  
+> I believe in continuous learning, ethical hacking, and building intelligent security systems.
+
+---
+
+**Open to collaboration on security tools, research papers, CTF teams, and open-source projects!** 🔐
+
+---
