@@ -61,8 +61,8 @@
 ---
 
 ## 📬 **Connect With Me**
-- 📧 **Email:** [your.email@example.com](mailto:saadxali114@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/saad-ali-baaa5b272/)   
+- 📧 **Email:** [aadxali114@gmail.com] 
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/saad-ali-baaa5b272/]
 
 ---
 
