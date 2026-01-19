@@ -1,54 +1,69 @@
-# 👋 Hi there, I'm **Saad Ali**!
+# 👋 Hi, I'm Saad  
+**Cybersecurity Enthusiast | ML for Security | Developer**
 
-I'm a passionate **Cybersecurity student** at the **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI)**. I’m deeply interested in security research, ethical hacking, and SOC operations, and I’m always looking to grow in the field of defensive and offensive security.
-
----
-
-## 🎓 Education  
-**Bachelor’s in Cybersecurity**  
-*Ghulam Ishaq Khan Institute (2022 – 2026)*
+Welcome to my GitHub profile! I'm a passionate cybersecurity student and developer with hands-on experience in building security tools, analyzing network traffic, and applying machine learning to detect threats. I enjoy working on open-source projects, collaborating on hackathons, and contributing to the security community.
 
 ---
 
-## 🧠 Interests  
-- Ethical Hacking & Penetration Testing  
-- Security Information & Event Management (SIEM)  
-- Capture The Flag (CTF) Challenges  
-- Security Automation & Scripting  
-- Digital Forensics  
-- Open-Source Security Tools  
+## 🔐 What I Do
+
+- **Security Research** – Network traffic analysis, intrusion detection, phishing detection  
+- **Machine Learning for Security** – Anomaly detection, clustering, classification models  
+- **Tool Development** – Python-based security tools, automation scripts, visualization  
+- **CTF & Hackathons** – Active participant and organizer  
+- **Community Building** – Leading tech events and social initiatives  
 
 ---
 
-## 🛠️ Tools & Technologies  
-- **Languages:** Python, Bash  
-- **Platforms:** Linux, Windows  
-- **Tools:** Git, Wireshark, Nmap, Burp Suite, Metasploit, **Wazuh**, **IBM QRadar**  
-- **Domains:** Networking, System Security, Vulnerability Assessment, **SOC (Security Operations Center)**  
+## 🛠️ Tech Stack
+
+| Category            | Tools & Technologies                                                                 |
+|---------------------|--------------------------------------------------------------------------------------|
+| **Programming**     | Python, C++, SQL, Bash, HTML/CSS/JavaScript                                          |
+| **Cybersecurity**   | Burp Suite, Wireshark, Nmap, Metasploit, Autopsy, OWASP Top 10                       |
+| **ML & Data Science**| Scikit-Learn, Pandas, NumPy, TF-IDF, K-Means, Random Forest, DNN                     |
+| **Cloud & DevOps**  | AWS, Docker, Terraform, GitHub Actions, Prometheus, Grafana                          |
+| **Frameworks**      | Flask, REST APIs                                                                     |
 
 ---
 
-## 💬 Ask Me About  
-- Cybersecurity Fundamentals  
-- Linux & Network Security  
-- SIEM Tools (Wazuh, QRadar)  
-- SOC Operations & Threat Detection  
-- Open-Source Security Projects  
+## 📌 Featured Projects
+
+### 🚨 [Network Traffic Anomaly Detection](https://github.com/yourusername/network-anomaly-detection)
+- Python-based tool for analyzing `.pcap` files and detecting abnormal traffic patterns
+- Achieved **Silhouette Score of 0.87** using K-Means clustering
+- Visualized clusters and traffic origins using KML/Google Earth
+
+### 📧 [Phishing Email Detection using Genetic Algorithm](https://github.com/yourusername/phishing-detection-ga)
+- Implemented a Genetic Algorithm for feature selection from email text
+- Trained a Random Forest classifier with **95.45% accuracy**
+- Balanced precision and recall for real-world deployment
+
+### 🌍 [Network Traffic Geo-Visualization Tool](https://github.com/yourusername/network-geo-viz)
+- Parses Wireshark captures and maps IP traffic geographically
+- Built with `dpkt`, `pygeoj`, and GeoLiteCity database
+- Modular design for integration with IDS/forensics pipelines
 
 ---
 
-## 📫 Contact Me  
-📧 Email: [saadxali114@gmail.com](mailto:saadxali114@gmail.com)  
-🔗 LinkedIn: [Saad Ali](https://www.linkedin.com/in/saad-ali-baaa5b272/)
+## 🏆 Certifications
+- Foundation of Cybersecurity
+- Critical Thinking Skills for Professionals
+- Introduction to Python for Cybersecurity
 
 ---
 
-## ⚡ Fun Fact  
-I love breaking things down to understand how they work—whether it's code, systems, or security protocols!
+## 📫 Let's Connect
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)  
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
 
 ---
 
-## 📈 GitHub Stats  
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadali112&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadali112&layout=compact&theme=github_dark)  
-![GitHub Streak](https://streak-stats.demolab.com?user=saadali112&theme=github-dark&hide_border=true)
+> *“Security is not a product, but a process.” – Bruce Schneier*  
+> I believe in building secure, scalable, and socially impactful technology.
+
+---
+
+**⭐ Feel free to explore my repositories and reach out for collaborations!**
