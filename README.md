@@ -1,6 +1,6 @@
-# 👨‍💻 Saad | Cybersecurity & AI Security Specialist
+# 👨‍💻 Cybersecurity & AI Security 
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity student and developer with hands-on experience in **SOC operations**, **penetration testing**, and applying **AI/ML** to detect and mitigate threats. I build security tools, analyze network traffic, and automate defensive workflows. I enjoy working on open-source projects, collaborating in CTFs and hackathons, and contributing to the security community.
+ Hi, I'm Saad Ali .Welcome to my GitHub profile! I'm a passionate cybersecurity student and developer with hands-on experience in **SOC operations**, **penetration testing**, and applying **AI/ML** to detect and mitigate threats. I build security tools, analyze network traffic, and automate defensive workflows. I enjoy working on open-source projects, collaborating in CTFs and hackathons, and contributing to the security community.
 
 
 ## 🔧 **Technical Stack**
