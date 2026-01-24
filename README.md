@@ -1,8 +1,6 @@
 # 👋 Hey, I'm **Saad Ali**
 
-Welcome to my GitHub! I'm a **final-year Cybersecurity student** and security-focused developer with hands-on experience in **SOC operations**, **penetration testing**, and **AI/ML-driven threat detection**. I enjoy building defensive security tools, analyzing network traffic, automating SOC workflows, and contributing to open-source security projects.
-
-I actively participate in **CTFs, hackathons**, and collaborative security research, with a strong interest in applying machine learning to real-world cybersecurity problems.
+Welcome to my GitHub profile! I'm a passionate  final-year  cybersecurity student and developer with hands-on experience in **SOC operations**, **penetration testing**, and applying **AI/ML** to detect and mitigate threats. I build security tools, analyze network traffic, and automate defensive workflows. I enjoy working on open-source projects, collaborating in CTFs and hackathons, and contributing to the security communi
 
 ---
 
