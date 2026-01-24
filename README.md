@@ -28,27 +28,78 @@
 
 ---
 
-## 🚀 **Featured Projects**
+🚀 Featured Projects
+🔍 Malware Traffic Detection Using Victim–Attacker Interaction Patterns
 
-### 🔍 **SOC-Ready Network Traffic Anomaly Detection**
-- Python tool for `.pcap` analysis using **K-Means clustering** (Silhouette Score: **0.87**)
-- Integrated with **Splunk dashboards** for real-time SOC monitoring
-- **Tech:** Python, Scikit-Learn, Wireshark, Splunk, ELK
+Built an ML-based malware detection system analyzing encrypted network traffic with 99.88% binary accuracy
 
-### ⚔️ **Automated Pentesting Reconnaissance Framework**
-- Multi-tool automation for network scanning and vulnerability discovery
-- Integrates **Nmap, Dirb, and custom enumeration scripts**
-- **Tech:** Python, Bash, Nmap, Metasploit
+Engineered 22 statistical features from 16-packet channel units using LightGBM
 
-### 📧 **AI-Powered Phishing & Malware Detection**
-- **Genetic Algorithm + Random Forest** classifier for email analysis (**95.45% accuracy**)
-- ML model for malware classification using behavioral features
-- **Tech:** Python, TensorFlow, Scikit-Learn, Pandas
+Implemented SampleNorm to handle traffic non-stationarity and tolerate 20% packet loss
 
-### 🛡️ **Incident Response Playbook Automator**
-- Python-based tool to automate SOC playbooks and alert triage
-- Integrates with **SIEM APIs** for automated ticket creation and response
-- **Tech:** Python, Splunk API, FastAPI, Docker
+Classified 10 malware families with 96.24% multi-class accuracy
+
+Tech: Python, PyTorch, Scapy, LightGBM, Google Colab
+
+🛡️ End-to-End Vulnerability Assessment & SOC Defense System
+
+Designed a 3-zone enterprise network (External / DMZ / Internal) using pfSense firewall
+
+Discovered 34+ vulnerabilities (SQLi, XSS, CSRF) with an 85% detection rate
+
+Deployed Wazuh SIEM with custom correlation rules and Suricata IDS for active threat monitoring
+
+Automated CVSS scoring and mapped controls to NIST CSF & ISO 27001
+
+Tech: pfSense, Wazuh SIEM, Suricata, Kali Linux, Metasploit, Python, Windows Server
+
+🚗 Secure Ride-Hailing Web Application
+
+Developed a secure multi-role (user/driver/admin) ride-hailing platform using Flask
+
+Implemented JWT-based authentication, bcrypt password hashing, and CSRF protection
+
+Integrated Mapbox API for live ride tracking and outsourced payments for PCI-DSS compliance
+
+Mitigated OWASP Top 10 vulnerabilities including SQL Injection and XSS
+
+Tech: Python, Flask, MySQL, HTML/CSS/JS, Mapbox API, JWT, bcrypt
+
+🚨 Anomaly-Based Intrusion Detection System (IDS)
+
+Implemented K-Means clustering with PCA to detect abnormal network traffic patterns
+
+Extracted and normalized 40+ behavioral features from traffic datasets
+
+Achieved Silhouette Score of 0.87, indicating strong cluster separation
+
+Visualized anomalies to support SOC investigation workflows
+
+Tech: Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Google Colab
+
+📧 Genetic Algorithm-Based Phishing Email Detection System
+
+Used a Genetic Algorithm for intelligent feature selection from email text
+
+Trained a Random Forest classifier on TF-IDF features
+
+Achieved 95.45% accuracy with strong precision–recall balance
+
+Evaluated performance using confusion matrices and metric comparisons
+
+Tech: Python, Pandas, NumPy, Scikit-Learn, TF-IDF, Random Forest
+
+🌍 Network Traffic Visualization & Forensics Tool
+
+Built a Python tool to analyze Wireshark .pcap files and visualize traffic geographically
+
+Implemented packet parsing, IP classification, and GeoIP mapping
+
+Generated KML files for visual analysis in Google Earth
+
+Designed modular architecture for extensibility to IDS and network forensics
+
+Tech: Python, Wireshark, dpkt, pygeoip, GeoLiteCity, KML, Google Earth
 
 ---
 
